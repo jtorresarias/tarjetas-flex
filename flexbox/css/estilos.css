@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#caja1 {
+  background-image: url(../imagenes/baticueva.jpg);
+  width: 500px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#imagen {
+  width: 350px;
+}
